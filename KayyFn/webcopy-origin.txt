@@ -1,0 +1,136 @@
+Uri: https://www.galaxyswapperv2.com/
+File Name: C:\Downloaded Web Sites\www.galaxyswapperv2.com\index.htm
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Balsamiq+Sans:wght@700&display=swap
+File Name: C:\Downloaded Web Sites\www.galaxyswapperv2.com\css2.css
+Content Type: text/css
+
+Uri: https://www.galaxyswapperv2.com/style.css
+File Name: C:\Downloaded Web Sites\www.galaxyswapperv2.com\style.css
+Content Type: text/css
+
+Uri: https://www.galaxyswapperv2.com/img/img-2.png
+File Name: C:\Downloaded Web Sites\www.galaxyswapperv2.com\img\img-2.png
+Content Type: image/png
+
+Uri: https://discord.com/invite/galaxyswapper
+File Name: C:\Downloaded Web Sites\www.galaxyswapperv2.com\invite\galaxyswapper.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=0xPf3M5eoNU&t
+File Name: C:\Downloaded Web Sites\www.galaxyswapperv2.com\watch.html
+Content Type: text/html
+
+Uri: https://www.galaxyswapperv2.com/faq.html
+File Name: C:\Downloaded Web Sites\www.galaxyswapperv2.com\faq.html
+Content Type: text/html
+
+Uri: https://twitter.com/GalaxySwapperV2
+File Name: C:\Downloaded Web Sites\www.galaxyswapperv2.com\GalaxySwapperV2.html
+Content Type: text/html
+
+Uri: https://www.galaxyswapperv2.com/img/cart.png
+File Name: C:\Downloaded Web Sites\www.galaxyswapperv2.com\img\cart.png
+Content Type: image/png
+
+Uri: https://www.galaxyswapperv2.com/img/lock.png
+File Name: C:\Downloaded Web Sites\www.galaxyswapperv2.com\img\lock.png
+Content Type: image/png
+
+Uri: https://www.galaxyswapperv2.com/img/help.png
+File Name: C:\Downloaded Web Sites\www.galaxyswapperv2.com\img\help.png
+Content Type: image/png
+
+Uri: https://img.icons8.com/bubbles/100/000000/services.png
+File Name: C:\Downloaded Web Sites\www.galaxyswapperv2.com\bubbles\100\000000\services.png
+Content Type: image/png
+
+Uri: https://www.galaxyswapperv2.com/img/hero-bg.png
+File Name: C:\Downloaded Web Sites\www.galaxyswapperv2.com\img\hero-bg.png
+Content Type: image/png
+
+Uri: https://www.galaxyswapperv2.com/img/net.png
+File Name: C:\Downloaded Web Sites\www.galaxyswapperv2.com\img\net.png
+Content Type: image/png
+
+Uri: https://www.galaxyswapperv2.com/img/Galaxy banner.png
+File Name: C:\Downloaded Web Sites\www.galaxyswapperv2.com\img\Galaxy banner.png
+Content Type: image/png
+
+Uri: https://www.galaxyswapperv2.com/img/tut.jpg
+File Name: C:\Downloaded Web Sites\www.galaxyswapperv2.com\img\tut.jpg
+Content Type: image/jpeg
+
+Uri: https://www.galaxyswapperv2.com/img/StretechedLogo.png
+File Name: C:\Downloaded Web Sites\www.galaxyswapperv2.com\img\StretechedLogo.png
+Content Type: image/png
+
+Uri: https://img.icons8.com/cute-clipart/64/000000/discord-logo.png
+File Name: C:\Downloaded Web Sites\www.galaxyswapperv2.com\cute-clipart\64\000000\discord-logo.png
+Content Type: image/png
+
+Uri: https://img.icons8.com/bubbles/100/000000/new-post.png
+File Name: C:\Downloaded Web Sites\www.galaxyswapperv2.com\bubbles\100\000000\new-post.png
+Content Type: image/png
+
+Uri: https://img.icons8.com/color/48/000000/discord-logo.png
+File Name: C:\Downloaded Web Sites\www.galaxyswapperv2.com\color\48\000000\discord-logo.png
+Content Type: image/png
+
+Uri: https://img.icons8.com/color/48/000000/youtube-music.png
+File Name: C:\Downloaded Web Sites\www.galaxyswapperv2.com\color\48\000000\youtube-music.png
+Content Type: image/png
+
+Uri: https://img.icons8.com/color/48/000000/twitter--v2.png
+File Name: C:\Downloaded Web Sites\www.galaxyswapperv2.com\color\48\000000\twitter--v2.png
+Content Type: image/png
+
+Uri: https://www.galaxyswapperv2.com/header.js
+File Name: C:\Downloaded Web Sites\www.galaxyswapperv2.com\header.js
+Content Type: application/javascript
+
+Uri: https://drv.tw/inc/wd.js
+File Name: C:\Downloaded Web Sites\www.galaxyswapperv2.com\inc\wd.js
+Content Type: application/javascript
+
+Uri: https://www.galaxyswapperv2.com/img/wall.jpg
+File Name: C:\Downloaded Web Sites\www.galaxyswapperv2.com\img\wall.jpg
+Content Type: image/jpeg
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:300, 400, 700&display=swap
+File Name: C:\Downloaded Web Sites\www.galaxyswapperv2.com\css.css
+Content Type: text/css
+
+Uri: https://docs.google.com/forms/d/e/1FAIpQLSe1CDv88EYEJhnZ2QeTtH3BfnAr6CVX5a3jKS1MTyFoIgdu-A/viewform?usp=send_form
+File Name: C:\Downloaded Web Sites\www.galaxyswapperv2.com\forms\d\e\1FAIpQLSe1CDv88EYEJhnZ2QeTtH3BfnAr6CVX5a3jKS1MTyFoIgdu-A\viewform.html
+Content Type: text/html
+
+Uri: https://linkvertise.com/98253/GalaxySwapperv2OfficialDownload?o=sharing
+File Name: C:\Downloaded Web Sites\www.galaxyswapperv2.com\98253\GalaxySwapperv2OfficialDownload.html
+Content Type: text/html
+
+Uri: https://linkvertise.com/98253/Galaxyswapperlobby?o=sharing
+File Name: C:\Downloaded Web Sites\www.galaxyswapperv2.com\98253\Galaxyswapperlobby.html
+Content Type: text/html
+
+Uri: https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-5.0.7-windows-x64-installer
+File Name: C:\Downloaded Web Sites\www.galaxyswapperv2.com\en-us\download\dotnet\thank-you\runtime-desktop-5.0.7-windows-x64-installer.html
+Content Type: text/html
+
+Uri: https://linkvertise.com/98253/GalaxySwapperv2Key?o=sharing
+File Name: C:\Downloaded Web Sites\www.galaxyswapperv2.com\98253\GalaxySwapperv2Key.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=50akM-9dk1M&feature=youtu.be
+File Name: C:\Downloaded Web Sites\www.galaxyswapperv2.com\watch-1.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat
+File Name: C:\Downloaded Web Sites\www.galaxyswapperv2.com\css-1.css
+Content Type: text/css
+
+Uri: https://consent.youtube.com/ml?continue=https://www.youtube.com/channel/UCraD4pXYWONkBq0T37P3I8A&gl=ES&hl=en&pc=yt&uxe=23983171&src=1
+File Name: C:\Downloaded Web Sites\www.galaxyswapperv2.com\ml.html
+Content Type: text/html
+
